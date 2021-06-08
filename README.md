@@ -13,6 +13,7 @@ This is a template based on
 
 * Dokuwiki vector https://github.com/arsava/dokuwiki-template-vector
 
+
 ## Licence 
 
 * GNU Public License v2

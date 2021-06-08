@@ -12,7 +12,6 @@ Gives you a all-devices friendly 2021 MediaWiki/Wikipedia Look-and-Feel for Doku
 This is a template based on 
 
 * Dokuwiki vector https://github.com/arsava/dokuwiki-template-vector
-* test webhost 102544
 
 ## Licence 
 

@@ -1,7 +1,7 @@
-﻿base     vector
-author   ARSAVA
-email    dokuwiki@dev.arsava.com
-date     2014-02-09
-name     vector template
-desc     vector brings you the year 2010 MediaWiki/Wikipedia look and feel for DokuWiki.
-url      https://www.dokuwiki.org/template:vector
+base     wikiweko
+author   Ruben Carlo Benante
+email    rcb@beco.cc
+date     2021-06-06
+name     WikiWeko Template
+desc     Gives you a all-devices friendly 2021 MediaWiki/Wikipedia Look-and-Feel for DokuWiki 
+url      https://www.dokuwiki.org/template:wikiweko

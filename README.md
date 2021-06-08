@@ -1,3 +1,36 @@
+# Wiki Weko
+
+## Introduction
+
+Gives you a all-devices friendly 2021 MediaWiki/Wikipedia Look-and-Feel for DokuWiki 
+
+* URL on dokuwiki: https://www.dokuwiki.org/template:wikiweko
+* URL on github: https://github.com/drbeco/dokuwiki-wikiweko-template
+
+## Code
+
+This is a template based on 
+
+* Dokuwiki vector https://github.com/arsava/dokuwiki-template-vector
+
+## Licence 
+
+* GNU Public License v2
+* See template.info.txt for main info
+* See COPYING for license info
+
+## Authors
+
+* drbeco
+* arsava
+* andreashaerter
+* klap-in
+* araname
+* splitbrain
+* name6
+
+# From Vector (this instructions are about to chance):
+
 
   I. About
 

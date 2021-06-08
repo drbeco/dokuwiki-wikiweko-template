@@ -27,7 +27,8 @@ This is a template based on
 * klap-in
 * araname
 * splitbrain
-* name6
+* hbilalshah
+
 
 # From Vector (this instructions are about to chance):
 

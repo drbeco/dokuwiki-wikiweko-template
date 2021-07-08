@@ -31,7 +31,7 @@ if (!defined("DOKU_INC")){
 <?php
 //show meta-tags
 tpl_metaheaders();
-echo "<meta name=\"viewport\" content=\"width=device-width,initial-scale=1\" />";
+echo "<meta name=\"viewport\" content=\"width=device-width,initial-scale=0.8\" />";
 
 //include default or userdefined favicon
 //

@@ -423,7 +423,7 @@ if ($ACT === "edit" &&
 <?php
 //show meta-tags
 tpl_metaheaders();
-echo "<meta name=\"viewport\" content=\"width=device-width,initial-scale=1\" />";
+echo "<meta name=\"viewport\" content=\"width=device-width,initial-scale=0.8\" />";
 
 //include default or userdefined favicon
 //
@@ -670,6 +670,7 @@ if (file_exists(DOKU_TPLINC."lang/".$conf["lang"]."/style.css")){
           if (tpl_getConf("vector_discuss") &&
               tpl_getConf("vector_userpage")){
               echo "      <li id=\"pt-mytalk\">".html_wikilink(tpl_getConf("vector_discuss_ns").ltrim(tpl_getConf("vector_userpage_ns"), ":").$loginname, hsc($lang["vector_mytalk"]))."</li>";
+              //echo "      <li id=\"pt-mytalk\">".html_wikilink(tpl_getConf("vector_discuss_ns").$loginname, hsc($lang["vector_mytalk"]))."</li>";
           }
           //admin
           if (!empty($INFO["isadmin"]) ||
